@@ -1,0 +1,644 @@
+@media (max-width:375px) and (max-width:575.98px) {
+
+
+    .main-nav .navbar-nav .nav-link {
+        font-size: 8px
+    }
+
+    .main-nav {
+        padding: 17px 21px;
+    }
+
+    .navbar-toggler-icon {
+        background-color: #4BCAFF;
+        border-radius: 5px;
+    }
+
+    #slider .banner .banner-art h2 {
+        font-size: 20px
+    }
+
+    #slider .banner .banner-art p {
+
+        font-size: 11px;
+        margin-top: 32px;
+        text-align: center;
+    }
+
+    .fa-arrow-circle-left,
+    .fa-arrow-circle-right {
+        display: none !important;
+    }
+
+    .top {
+        display: none !important;
+    }
+
+    #slider .banner .banner-art .btn2 {
+        left: 58% !important;
+    }
+
+    #slider .banner .banner-art .single-content i {
+        width: 42px;
+        height: 42px;
+        line-height: 42px;
+        font-size: 28px;
+        margin-right: 20px;
+    }
+
+    .slick-dots {
+        display: none !important;
+    }
+
+
+    /*end of banner*/
+
+    #feature .title h2 {
+        font-size: 24px;
+    }
+
+    #feature .title p {
+        font-size: 17px;
+    }
+
+    #feature .single-cont p {
+        font-size: 14px;
+    }
+
+    end of feature #galary .title h2 {
+        font-size: 20px;
+    }
+
+    #galary .title p {
+        font-size: 16px;
+        margin-bottom: 50px;
+    }
+
+    #galary .card-cont .card {
+        width: 70% !important;
+        margin: 0 auto !important;
+    }
+
+    #galary .card-cont .card:hover {
+        transform: inherit !important;
+    }
+
+
+    /*    end of galary*/
+
+
+    #price .price-mnu1:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu2:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu3:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu1 .p20 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+    #price .price-mnu2 .p25 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+    #price .price-mnu3 .p30 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+
+
+
+
+
+    #video .content1 h2 {
+        font-size: 21px !important;
+    }
+
+    #video .content2 p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    /*end of video*/
+    #testimoniul .title h2 {
+        font-size: 22px;
+    }
+
+    #testimoniul .base {
+        text-align: center !important;
+         ! margin-left: 13px;
+        margin-top: 20px;
+    }
+
+    #testimoniul .base > img {
+        width: 24%;
+    }
+
+    #testimoniul .base .baseimg img {
+        width: 50px;
+        height: 50px;
+    }
+
+    #testimoniul .row1 {
+        margin-right: 0 !important;
+        /*        here use row1 class for reduce extra padding*/
+    }
+
+
+
+
+
+    #testimoniul .base .baseimg img {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+    }
+
+
+    #testimoniul .title-art p {
+        padding-left: 30px;
+        padding-right: 30px;
+        display: block;
+    }
+
+    /* end of testmoniul*/
+    #download .title h2 {
+        font-size: 22px;
+    }
+
+    /*  end of download*/
+
+
+
+
+    #contract .map-form {
+
+        width: 73% !important;
+
+    }
+
+    #contract .map-form {
+        left: 14%;
+    }
+
+
+    #contract .map-form .form-check1 textarea {
+        width: 101%;
+        resize: inherit;
+    }
+
+    #contract .map-form button {
+
+        margin-left: 25px;
+    }
+}
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .main-nav .navbar-nav .nav-link {
+        font-size: 8px
+    }
+
+    .main-nav {
+        padding: 17px 21px;
+    }
+
+    .navbar-toggler-icon {
+        background-color: #4BCAFF;
+        border-radius: 5px;
+    }
+
+    #slider .banner .banner-art h2 {
+        font-size: 20px
+    }
+
+    #slider .banner .banner-art p {
+
+        font-size: 11px;
+        margin-top: 32px;
+        text-align: center;
+    }
+
+    .fa-arrow-circle-left,
+    .fa-arrow-circle-right {
+        display: none !important;
+    }
+
+    .top {
+        display: none !important;
+    }
+
+    #slider .banner .banner-art .btn2 {
+        left: 58% !important;
+    }
+
+    #slider .banner .banner-art .single-content i {
+        width: 42px;
+        height: 42px;
+        line-height: 42px;
+        font-size: 28px;
+        margin-right: 20px;
+    }
+
+    .slick-dots {
+        display: none !important;
+    }
+
+
+    /*end of banner*/
+
+    #feature .title h2 {
+        font-size: 24px;
+    }
+
+    #feature .title p {
+        font-size: 17px;
+    }
+
+    #feature .single-cont p {
+        font-size: 14px;
+    }
+
+    end of feature #galary .title h2 {
+        font-size: 20px;
+    }
+
+    #galary .title p {
+        font-size: 16px;
+        margin-bottom: 50px;
+    }
+
+    #galary .card-cont .card {
+        width: 70% !important;
+        margin: 0 auto !important;
+    }
+
+    #galary .card-cont .card:hover {
+        transform: inherit !important;
+    }
+
+
+    /*    end of galary*/
+
+
+    #price .price-mnu1:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu2:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu3:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu1 .p20 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+    #price .price-mnu2 .p25 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+    #price .price-mnu3 .p30 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+
+
+
+
+
+    #video .content1 h2 {
+        font-size: 21px !important;
+    }
+
+    #video .content2 p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    /*end of video*/
+    #testimoniul .title h2 {
+        font-size: 22px;
+    }
+
+    #testimoniul .base {
+        text-align: center !important;
+         ! margin-left: 13px;
+        margin-top: 20px;
+    }
+
+    #testimoniul .base > img {
+        width: 24%;
+    }
+
+    #testimoniul .base .baseimg img {
+        width: 50px;
+        height: 50px;
+    }
+
+    #testimoniul .row1 {
+        margin-right: 0 !important;
+        /*        here use row1 class for reduce extra padding*/
+    }
+
+
+
+
+
+    #testimoniul .base .baseimg img {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+    }
+
+
+    #testimoniul .title-art p {
+        padding-left: 30px;
+        padding-right: 30px;
+        display: block;
+    }
+
+    /* end of testmoniul*/
+    #download .title h2 {
+        font-size: 22px;
+    }
+
+    /*  end of download*/
+
+
+
+
+    #contract .map-form {
+
+        width: 73% !important;
+
+    }
+
+    #contract .map-form {
+        left: 14%;
+    }
+
+
+    #contract .map-form .form-check1 textarea {
+        width: 101%;
+        resize: inherit;
+    }
+
+    #contract .map-form button {
+
+        margin-left: 92px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .main-nav .navbar-nav .nav-link {
+        font-size: 12px;
+    }
+
+    .main-nav {
+        padding: 17px 21px;
+    }
+
+    .navbar-toggler-icon {
+        background-color: #4BCAFF;
+        border-radius: 5px;
+    }
+
+    #slider .banner .banner-art h2 {
+        font-size: 27px;
+    }
+
+    #slider .banner .banner-art p {
+
+        font-size: 16px;
+        margin-top: 32px;
+        text-align: left;
+    }
+
+    .fa-arrow-circle-left,
+    .fa-arrow-circle-right {
+        display: none !important;
+    }
+
+    .top {
+        display: none !important;
+    }
+
+    #slider .banner .banner-art .btn2 {
+        left: 58% !important;
+    }
+
+    #slider .banner .banner-art .single-content i {
+        width: 42px;
+        height: 42px;
+        line-height: 42px;
+        font-size: 28px;
+        margin-right: 20px;
+    }
+
+    .slick-dots {
+        display: none !important;
+    }
+
+
+    /*end of banner*/
+
+    #feature .title h2 {
+        font-size: 24px;
+    }
+
+    #feature .title p {
+        font-size: 17px;
+    }
+
+    #feature .single-cont p {
+        font-size: 14px;
+    }
+
+    end of feature #galary .title h2 {
+        font-size: 20px;
+    }
+
+    #galary .title p {
+        font-size: 25px;
+        margin-bottom: 50px;
+    }
+
+    #galary .card-cont .card {
+        width: 110% !important;
+        margin: 0 auto !important;
+    }
+
+    #galary .card-cont .card:hover {
+        transform: inherit !important;
+    }
+
+
+    /*    end of galary*/
+
+
+    #price .price-mnu1:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu2:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu3:hover {
+        transform: inherit !important;
+    }
+
+    #price .price-mnu1 .p20 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+    #price .price-mnu2 .p25 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+    #price .price-mnu3 .p30 {
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+
+
+
+
+
+    #video .content1 h2 {
+        font-size: 21px !important;
+    }
+
+    #video .content2 p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    /*end of video*/
+    #testimoniul .title h2 {
+        font-size: 28px;
+    }
+
+    #testimoniul .base {
+        text-align: center !important;
+         ! margin-left: 13px;
+        margin-top: 20px;
+    }
+
+    #testimoniul .base > img {
+        width: 30%;
+    }
+
+    #testimoniul .base .baseimg img {
+        width: 60px;
+        height: 60px;
+    }
+
+    #testimoniul .row1 {
+        margin-right: 0 !important;
+        /*        here use row1 class for reduce extra padding*/
+    }
+
+
+
+
+
+    #testimoniul .base .baseimg img {
+        position: absolute;
+        left: 50%;
+        top: 36%;
+    }
+
+
+    #testimoniul .title-art p {
+        padding-left: 30px;
+        padding-right: 30px;
+        display: block;
+    }
+
+    /* end of testmoniul*/
+    #download .title h2 {
+        font-size: 22px;
+    }
+
+    /*  end of download*/
+
+
+
+
+    #contract .map-form {
+
+        width: 73% !important;
+
+    }
+
+    #contract .map-form {
+        left: 14%;
+    }
+
+
+    #contract .map-form .form-check1 textarea {
+        width: 101%;
+        resize: inherit;
+    }
+
+    #contract .map-form button {
+
+        margin-left: 157px;
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #slider .banner .banner-art h2 {
+        font-size: 35px;
+        margin-bottom: 17px;
+    }
+    #contract .map-form .form-check1 textarea{
+        width:100%;
+    }
+    #contract .map-form button {
+    margin-left: 102px;
+    }
+}
+
+
+    @media (min-width: 1200px) {
+       #slider .banner .banner-art h2 {
+        font-size: 35px;
+        margin-bottom: 17px;
+    }
+    #contract .map-form .form-check1 textarea{
+        width:100%;
+    }
+    #contract .map-form button {
+    margin-left: 145px;
+    }
+}
